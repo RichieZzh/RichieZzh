@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hello! This is Richie Zhang 👋
 
-<!--
-**RichieZzh/RichieZzh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Becoming a better version of myself. ✨
 
-Here are some ideas to get you started:
+💛 Hobby:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Listening to music
+- Watching documentaries
+- Reading novels
+
+💬 Contact:
+
+- Email: 2510103085@mails.szu.edu.cn
+
+🔬 About myself:
+
+I am a student interested in large language model pruning
+and computational imaging.
